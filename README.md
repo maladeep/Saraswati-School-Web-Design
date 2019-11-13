@@ -6,9 +6,10 @@
 * JQuery
 
 # Snapshot
+
 ### Home Section
 
-![Alt text](/imgges/home/png "Home")
+![](/images/home.png)
 
 ### Gallery Section
 
