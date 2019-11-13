@@ -13,7 +13,7 @@
 
 ### Gallery Section
 
-![](/images/galley.png)
+![](/images/gallery.png)
 
 ### About Section
 
