@@ -8,14 +8,14 @@
 # Snapshot
 ### Home Section
 
-![](README/Screen%20Shot%202019-11-13%20at%209.04.28%20PM.png)
+![Alt text](/imgges/home/png "Home")
 
 ### Gallery Section
 
-![](README/Screen%20Shot%202019-11-13%20at%209.04.48%20PM.png)
+![](/images/galley.png)
 
 ### About Section
 
-![](README/Screen%20Shot%202019-11-13%20at%209.03.17%20PM.png)
+![](/images/about.png)
 
 
